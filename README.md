@@ -235,7 +235,7 @@ STEP 1: RAW DATA               STEP 2: POWER QUERY              STEP 3: OUTPUT
 
 ## 🚀 How to Run This Project
 
-1. **Download** Power BI Desktop — free from [microsoft.com/powerbi](https://powerbi.microsoft.com/downloads/)
+1. **Download** Power BI Desktop — free from [microsoft.com/powerbi](https://github.com/PatlaveetiJabeer786/TechnoEdge-sales-Analysis-Project/blob/main/TechnoEdge%20Monthy%20Sales_Project.pbix)
 
 2. **Clone or download** this repository to your local machine
 
