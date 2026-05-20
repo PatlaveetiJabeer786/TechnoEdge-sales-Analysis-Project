@@ -410,14 +410,17 @@ STEP 1: RAW DATA                STEP 2: POWER QUERY               STEP 3: OUTPUT
 <div align="center">
 
 <div align="center">
+
 🌟 Final Summary
 This project transformed TechnoEdge from a company drowning in spreadsheets
 to one with a live, automated, real-time business intelligence system
+
 🔴 Problem	🟢 Solution	📈 Result
 36+ scattered CSV files	Automated ETL Pipeline	One unified dashboard
 Hours of manual reporting	Power Query automation	70% time reduction
 No performance visibility	Interactive Power BI Dashboard	Real-time insights
 Poor decision making	KPIs + Geographic Maps	Data-driven strategy
+
 💬 Let's Connect!
 LinkedIn
 GitHub
