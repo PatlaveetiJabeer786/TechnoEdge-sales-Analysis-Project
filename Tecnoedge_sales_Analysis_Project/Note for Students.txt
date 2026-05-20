@@ -1,0 +1,10 @@
+1. Extract all the files and keep in a folder only then you can do this practical.
+2. It requires corporate email id
+3. Students who do not have this can do this practical by other method.
+For that you have to see video how to get all excel files from a folder. 
+https://youtu.be/GyyUd79nbl0
+
+4. Understand the problem people facing today and try to relate and do the practical. If you are fresher in Power BI, atleast understand the problem statement and be ready for the interview where you can tell this case study. 
+
+Cheers !!!
+Share with other people if this helps you !!!
