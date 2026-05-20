@@ -1,30 +1,42 @@
 # 📊 Sales Analysis: TechnoEdge Performance Dashboard
 **Project Duration:** Jan 2025 - Feb 2025
 
-## 📝 Project Overview
-This project involved engineering an automated data pipeline to consolidate and analyze multi-year sales data for TechnoEdge. The goal was to eliminate manual reporting and provide a 360-degree view of business performance.
 
-## 🚀 Key Achievements
-* **Automated Data Pipeline:** Consolidated and cleaned 36+ monthly CSV datasets using Power Query.
-* **Efficiency Gains:** Eliminated 70% of manual data preparation time through automated ETL.
-* **Interactive Visualization:** Developed a dashboard featuring Geographical Mapping and Ribbon Charts for deep-dive analysis.
-* **Strategic Impact:** Delivered actionable insights that streamlined stakeholder decision-making and performance tracking.
+</td>
+</tr>
+</table>
 
-## 🛠 Tech Stack
-* **Power BI:** Data Modeling (Star Schema), DAX, and Visualizations.
-* **Power Query:** Advanced Data Transformation and ETL.
-* **Excel:** Initial data exploration and case study documentation.
+---
 
-# 📊 Sales Analysis: TechnoEdge Performance Dashboard
+## 🎯 My Role & What I Built
 
-## 🖼️ Dashboard Preview
-Below is the interactive dashboard used to analyze the **36+ monthly datasets** and provide 360-degree business insights:
+<div align="center">
+
+| Phase | My Task | Tool Used |
+|-------|---------|-----------|
+| 🔄 **Data Collection** | Gathered 36+ monthly CSV sales files | Excel / File System |
+| 🧹 **Data Cleaning & ETL** | Built automated pipeline to clean & consolidate all files | Power Query |
+| 🗄️ **Data Modeling** | Designed Star Schema with Facts & Dimension tables | Power BI |
+| 📐 **Calculations** | Created KPI measures (Revenue, Profit, Growth %) | DAX |
+| 📊 **Visualization** | Built interactive dashboard with maps & charts | Power BI |
+| 📢 **Insight Delivery** | Presented findings to stakeholders | PowerPoint |
+
+</div>
+
+---
+
+## 📊 Dashboard Preview
+
+<div align="center">
 
 ![TechnoEdge Dashboard](Technoedge%20Sales%20Dash%20Board.jpg)
 
-*You can download the full `TechnoEdge Monthly Sales_Project.pbix` file from this repository to explore the data modeling and DAX measures.*
+*👆 Interactive Power BI Dashboard — Geographic Sales Map + Ribbon Charts + KPI Cards*
 
-## 🚀 Key Project Highlights
-* **Consolidated Data:** Engineered a pipeline for 36+ monthly CSV files using Power Query.
-* **Automated ETL:** Reduced manual data preparation time by 70%.
-* **Geographical Mapping:** Integrated map visuals to track sales performance across different states.
+</div>
+
+---
+
+## ✅ Results & Business Impact
+
+<div align="center">
